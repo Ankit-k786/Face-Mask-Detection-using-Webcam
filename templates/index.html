@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+<div class="container">
+    <div class="row">
+        <div class="col-lg-2  offset-lg-2">
+
+			
+            <h2 class="mt-5">Face Mask Detection App by Ankit katiyar</h2>
+			<form method="post" action="{{ url_for('tasks') }}">
+			<input type="submit" value="Stop/Start" name="stop" />
+			</form>
+            <img src="{{ url_for('video_feed') }}" height="80%">
+			<h3 style="font-family:courier;">Instructions:</h3>
+			<ol style="font-family:courier;">
+			<li>Stop/Start--Toggle between stop or start live streaming</li>
+			
+        </div>
+    </div>
+</div>
+</body>
+
