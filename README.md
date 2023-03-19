@@ -5,3 +5,6 @@
 2- run the python file 'app.py' using : **python3 app.py**<br />
 
 RESULT:<br />
+
+<img src="https://github.com/Ankit-k786/Face-Mask-Detection-using-Webcam/blob/main/templates/withmask.png" width="128"/>
+<img src="https://github.com/Ankit-k786/Face-Mask-Detection-using-Webcam/blob/main/templates/withoutmask.png" width="128"/>
